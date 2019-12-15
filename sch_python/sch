@@ -1,0 +1,8 @@
+#!/usr/share/python3
+
+USAGE = """
+sch [OPTION] [seach directory]
+"""
+
+
+
